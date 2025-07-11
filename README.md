@@ -80,13 +80,13 @@ notes search "meeting"
 * The CLI reads this file at startup and writes to it when notes are added or deleted.
 
 ## Available Commands:
-  AddNote     This will allow you to add note
-  Delete      This will delete your note
-  ListNotes   A brief description of your command
-  LoadData    Data is Loaded
-  SaveData    Saves Data in the JSON file
-  SearchNotes A brief description of your command
-  completion  Generate the autocompletion script for the specified shell
-  help        Help about any command
+  - AddNote     This will allow you to add note
+  - Delete      This will delete your note
+  - ListNotes   A brief description of your command
+  - LoadData    Data is Loaded
+  - SaveData    Saves Data in the JSON file
+  - SearchNotes A brief description of your command
+  - completion  Generate the autocompletion script for the specified shell
+  - help        Help about any command
 
 ---
